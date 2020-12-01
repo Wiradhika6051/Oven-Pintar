@@ -13,6 +13,7 @@ Sebuah proyek untuk menyimulasikan kerja oven pintar(Smart Oven)menggunakan baha
 6.Alarm yang berbunyi ketika proses memasak sudah selesai
 
 #Kelompok 2 K23 Pengenalan komputasi STEI 2020
+
 16520049-Rifqi Ananda                          
 16520059-Fawwaz Anugrah Wiradhika Dharmasatya   
 16520079-Hani Rafifah                           
